@@ -1,0 +1,7 @@
+# Question 4: Add two complex numbers: (3 + 2j) and (1 + 4j)
+complex_num_1=(3 + 2j)
+complex_num_2 =(1+4j)
+
+output=complex_num_1 + complex_num_2
+
+print(f"Addtion of two complex number : {output}")

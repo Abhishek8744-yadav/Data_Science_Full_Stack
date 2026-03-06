@@ -1,0 +1,8 @@
+# Question 8: Subtract complex numbers: (10 + 5j) - (3 + 2j)
+num1 = (10 + 5j) 
+
+num2 =  (3 + 2j)
+
+result = num1 - num2
+
+print(f"Subtraction of {num1}-{num2} = {result}")

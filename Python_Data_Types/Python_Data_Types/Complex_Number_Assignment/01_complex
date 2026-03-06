@@ -1,0 +1,4 @@
+# Question 1: Create complex number 5 + 3j
+complex_number = 10+3j
+
+print(f"Complex number : {complex_number}")

@@ -1,0 +1,7 @@
+# Question 6: Find the magnitude of complex number 6 + 8j
+
+complex_number = 6 + 8j
+
+magnitude = abs(complex_number)
+
+print(f"Magnitude of {complex_number} : {magnitude}")

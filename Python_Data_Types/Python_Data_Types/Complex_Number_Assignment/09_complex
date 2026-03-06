@@ -1,0 +1,9 @@
+# Question 9: Divide complex numbers: (8 + 6j) / (2 + 1j)
+
+num_1 = (8 + 6j) 
+
+num_2 = (2 + 1j)
+
+result = num_1/num_2
+
+print(f"Division of Two complex number is {result}")
